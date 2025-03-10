@@ -40,11 +40,13 @@ This quiz app is designed to offer an interactive and playful approach to learni
 - **Retake Quiz:** Easily start a new quiz by pressing the "Retake the Quiz" button, which resets the quiz to the first question.
 
 ## Screenshots
-![Simulator Screenshot - iPhone 16 - 2025-03-10 at 12 27 55](https://github.com/user-attachments/assets/ef155b37-d4a3-460d-b4d5-d1adbfef1fd7) <img src="Simulator Screenshot - iPhone 16 - 2025-03-10 at 12.27.55.png" alt="Screenshot" width="300">
+![Simulator Screenshot - iPhone 16 - 2025-03-10 at 12 27 55](https://github.com/user-attachments/assets/ef155b37-d4a3-460d-b4d5-d1adbfef1fd7) 
 
-![Simulator Screenshot - iPhone 16 - 2025-03-10 at 12 28 55](https://github.com/user-attachments/assets/122a11e7-8ee5-46c1-b22d-338a5a5c1b61) <img src="Simulator Screenshot - iPhone 16 - 2025-03-10 at 12.28.03.png" alt="Screenshot" width="300">
-![Simulator Screenshot - iPhone 16 - 2025-03-10 at 12 28 41](https://github.com/user-attachments/assets/6ba01b46-d657-4e86-9702-3ed3977afbc5) <img src="Simulator Screenshot - iPhone 16 - 2025-03-10 at 12.28.41.png" alt="Screenshot" width="300">
-![Simulator Screenshot - iPhone 16 - 2025-03-10 at 12 28 03](https://github.com/user-attachments/assets/d8637ce7-fb7f-4b55-8614-dc6e73989b68) <img src="Simulator Screenshot - iPhone 16 - 2025-03-10 at 12.28.55.png" alt="Screenshot" width="100">
+![Simulator Screenshot - iPhone 16 - 2025-03-10 at 12 28 55](https://github.com/user-attachments/assets/122a11e7-8ee5-46c1-b22d-338a5a5c1b61) 
+
+![Simulator Screenshot - iPhone 16 - 2025-03-10 at 12 28 41](https://github.com/user-attachments/assets/6ba01b46-d657-4e86-9702-3ed3977afbc5) 
+
+![Simulator Screenshot - iPhone 16 - 2025-03-10 at 12 28 03](https://github.com/user-attachments/assets/d8637ce7-fb7f-4b55-8614-dc6e73989b68) 
 
 
 
