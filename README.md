@@ -3,10 +3,10 @@
 A fun and interactive quiz app built with Flutter that helps you test your knowledge about Flutter in an engaging and challenging way.
 
 <div>
-  <img src="https://github.com/user-attachments/assets/ef155b37-d4a3-460d-b4d5-d1adbfef1fd7" alt="Image 1" width="25%">
-  <img src="https://github.com/user-attachments/assets/122a11e7-8ee5-46c1-b22d-338a5a5c1b61" alt="Image 2" width="25%">
-  <img src="https://github.com/user-attachments/assets/6ba01b46-d657-4e86-9702-3ed3977afbc5" alt="Image 3" width="25%">
-  <img src="https://github.com/user-attachments/assets/0ad1fcd0-cbe9-41a0-9494-6b13001d1349" alt="Image 3" width="25%">
+  <img src="https://github.com/user-attachments/assets/ef155b37-d4a3-460d-b4d5-d1adbfef1fd7" alt="Image 1" width="20%">
+  <img src="https://github.com/user-attachments/assets/d8637ce7-fb7f-4b55-8614-dc6e73989b68" alt="Image 2" width="20%">
+  <img src="https://github.com/user-attachments/assets/5cd06c25-a181-42d2-b2ca-01551e7e6412" alt="Image 3" width="20%">
+  <img src="https://github.com/user-attachments/assets/0ad1fcd0-cbe9-41a0-9494-6b13001d1349" alt="Image 3" width="20%">
 </div>
 
 ## Screenshots
@@ -17,6 +17,7 @@ A fun and interactive quiz app built with Flutter that helps you test your knowl
 ![Simulator Screenshot - iPhone 16 - 2025-03-10 at 12 28 41](https://github.com/user-attachments/assets/6ba01b46-d657-4e86-9702-3ed3977afbc5) 
 
 ![Simulator Screenshot - iPhone 16 - 2025-03-10 at 12 28 03](https://github.com/user-attachments/assets/d8637ce7-fb7f-4b55-8614-dc6e73989b68) 
+![Simulator Screenshot - iPhone 16 - 2025-03-18 at 16 21 23](https://github.com/user-attachments/assets/5cd06c25-a181-42d2-b2ca-01551e7e6412)
 
 
 ## Overview
